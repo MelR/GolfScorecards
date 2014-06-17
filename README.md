@@ -1,4 +1,4 @@
 GolfScorecards
 ==============
 
-Golf scorecards and GPS
+Golf scorecards, distances, and GPS
